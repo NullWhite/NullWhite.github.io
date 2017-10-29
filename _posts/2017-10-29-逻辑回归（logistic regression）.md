@@ -4,8 +4,7 @@ title: "逻辑回归(logistic regression)"
 date: 2017-10-29 20:40:00 +0800
 categories: 机器学习
 tags: 分类方法
-description: 逻辑回归的原理以及向量化表示.
-archive: 机器学习
+description: 逻辑回归的原理以及向量化表示
 ---
 
 # 逻辑回归（logistic regression）

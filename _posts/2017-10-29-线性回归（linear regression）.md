@@ -4,8 +4,7 @@ title:  "线性回归(linear regression)"
 date:   2017-10-29 20:16:00 +0800
 categories: 机器学习
 tags: 回归方法
-description: 线性回归的原理以及向量化表示.
-archive: 机器学习
+description: 线性回归的原理以及向量化表示
 ---
 
 # 线性回归（linear regression）
