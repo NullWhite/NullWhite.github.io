@@ -123,7 +123,8 @@ $$
 h(x)=x\cdot\theta+\omega
 $$
 
-无正则化：
+__无正则化：__
+
 $$
 J(\theta,\omega)=\frac{1}{2m}\left(h(x)-y\right)^T\cdot\left(h(x)-y\right)
 $$
@@ -144,7 +145,8 @@ $$
 \omega=1-\alpha d_\omega
 $$
 
-正则化：
+__正则化：__
+
 $$
 J(\theta,\omega)=\frac{1}{2m}\left(h(x)-y\right)^T\cdot\left(h(x)-y\right)+\frac{\lambda}{2m}\theta^T\cdot\theta
 $$
